@@ -2,7 +2,7 @@
 
 An interactive, web-based tool built with **Python** and **Streamlit** to rapidly process and visualize multispectral imagery and RGB photos from satellite and drone platforms.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://satellite-uav-multispectral-vi-calculator.streamlit.app/)
+**[Launch Live Satellite & UAV Multispectral Vegetation Index Calculator](https://eaa-growers-dss.streamlit.app/](https://satellite-uav-multispectral-vi-calculator.streamlit.app/)**
 
 ## Overview
 

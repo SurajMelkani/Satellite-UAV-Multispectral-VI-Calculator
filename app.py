@@ -7,7 +7,7 @@ import plotly.express as px
 from PIL import Image
 
 st.set_page_config(page_title="Satellite/UAV Multispectral Vegetation Index", layout="wide")
-st.title("Satellite/ UAV Multispectral Imagery Vegetation Index Calculator")
+st.title("Satellite/ UAV Multispectral Vegetation Index Calculator")
 st.write(
     "Upload available single-band GeoTIFFs (Red, Green, NIR, Red Edge, Blue) and/or an RGB photo. "
     "The app computes indices based on what you provide. "
@@ -395,3 +395,4 @@ for name in INDEX_ORDER:
 
 
     st.divider()
+

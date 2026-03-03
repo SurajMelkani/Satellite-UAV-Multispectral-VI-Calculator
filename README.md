@@ -21,9 +21,5 @@ To test the platform, a complete set of sample multispectral bands and an RGB ph
 
 ## How to Run Locally
 
-If you want to run this application on your own machine:
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/Satellite-UAV-Multispectral-VI-Calculator.git](https://github.com/yourusername/Satellite-UAV-Multispectral-VI-Calculator.git)
-   cd Satellite-UAV-Multispectral-VI-Calculator
+To run this application on your own machine, clone this repository and run the app through your bash or command prompt after installing the dependencies listed in the requirements.txt file.
+   
